@@ -1,3 +1,6 @@
+if FANCHEN ~= "凡尘牛逼" then
+  game.Players.LocalPlayer:Kick("验证错误")
+end
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/x2zu/OPEN-SOURCE-UI-ROBLOX/refs/heads/main/X2ZU%20UI%20ROBLOX%20OPEN%20SOURCE/DummyUi-leak-by-x2zu/fetching-main/Tools/Framework.luau"))()
 
 -- Create Main Window
