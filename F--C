@@ -1,4 +1,4 @@
-if xxx ~= "xxx" than
+if xxx ~= "xxx" then
         game.Players.LocalPlayer:Kick("内容")
 end
 local OrionLib =
