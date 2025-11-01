@@ -1,5 +1,5 @@
 if xxx ~= "xxx" then
-        game.Players.LocalPlayer:Kick("内容")
+   game.Players.LocalPlayer:Kick("内容")
 end
 local OrionLib =
 loadstring(game:HttpGet("https://pastebin.com/raw/j9TdK86G"))()
