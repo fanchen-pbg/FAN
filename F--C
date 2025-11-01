@@ -1,4 +1,4 @@
-if FIN ~= "LOl" than
+if FIN ~= "LOl" then
 game.Players.LocalPlayer:Kick("验证错误")
 end
 local OrionLib =
