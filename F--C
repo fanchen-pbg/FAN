@@ -1,4 +1,4 @@
-if FIN ~= "LOl" then
+if FIN ~= "LOl" than
 game.Players.LocalPlayer:Kick("验证错误")
 end
 
