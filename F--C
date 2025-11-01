@@ -1,7 +1,6 @@
-if FIN ~= "LOl" than
-game.Players.LocalPlayer:Kick("验证错误")
+if  xxx ~= "xxx" than
+game.Players.LocalPlayer:Kick("内容")
 end
-
 local OrionLib =
 loadstring(game:HttpGet("https://pastebin.com/raw/j9TdK86G"))()
 local LBLG = Instance.new("ScreenGui", getParent)
